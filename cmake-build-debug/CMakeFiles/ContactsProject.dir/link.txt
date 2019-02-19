@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/ContactsProject.dir/main.c.o CMakeFiles/ContactsProject.dir/LLContacts.c.o CMakeFiles/ContactsProject.dir/Contact.c.o  -o ContactsProject.exe -Wl,--out-implib,libContactsProject.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

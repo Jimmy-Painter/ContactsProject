@@ -1,0 +1,8 @@
+//
+// Created by Jimmy on 2/19/2019.
+//
+
+#ifndef CONTACTSPROJECT_CONTACT_H
+#define CONTACTSPROJECT_CONTACT_H
+
+#endif //CONTACTSPROJECT_CONTACT_H

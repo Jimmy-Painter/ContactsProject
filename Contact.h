@@ -11,4 +11,6 @@ typedef struct ContactNode_struct {
     struct ContactNode_struct* nextNodePtr;
 } ContactNode;
 
+void PrintContactNode(ContactNode c);
+
 #endif //CONTACTSPROJECT_CONTACT_H

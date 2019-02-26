@@ -5,6 +5,8 @@
 #ifndef CONTACTSPROJECT_LLCONTACTS_H
 #define CONTACTSPROJECT_LLCONTACTS_H
 
+#include "Contact.h"
+
 typedef struct linked_list_contacts_struct
 {
     ContactNode* head;

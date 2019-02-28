@@ -21,6 +21,16 @@ int main() {
         fgets(fullName, 50, stdin);
         fullName[strlen(fullName)-1] = '\0';
 
+        printf("Enter phone number:\n");
+        scanf("%s", phoneNum);
+
+
+
+
+        printf("Enter another contact? (y/n):\n");
+        scanf("%s", &again);
+
+        printf("CONTACT LIST\n");
 
 
 

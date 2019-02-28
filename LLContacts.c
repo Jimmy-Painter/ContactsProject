@@ -10,6 +10,8 @@ void InsertContact(llc* l, char* name, char* phone){
 
     ContactNode* c = (ContactNode*)malloc(sizeof(ContactNode));
 
+    
+
     curr = l->head;
 
     while (curr != NULL){
@@ -36,6 +38,6 @@ void InsertContact(llc* l, char* name, char* phone){
         }
 
     }
-    
+
 }
 
